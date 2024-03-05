@@ -1,7 +1,0 @@
-<Project Sdk="Microsoft.NET.Sdk">
-  <PropertyGroup>
-    <TargetFramework>net462</TargetFramework>
-    <DynamicsProjectType>Solution</DynamicsProjectType>
-    <ModuleName>UCP-Retail-Banking</ModuleName>
-  </PropertyGroup>
-</Project>
